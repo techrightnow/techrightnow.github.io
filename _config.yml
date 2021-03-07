@@ -46,6 +46,7 @@ defaults:
       share: true
       related: true
 minimal_mistakes_skin: "dark" 
+include: ["pages"]
   
 
 # Exclude from processing.
