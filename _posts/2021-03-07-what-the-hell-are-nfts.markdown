@@ -6,10 +6,6 @@ date:   2021-03-07 17:00:21 +1100
 categories: crypto
 author: Senvidu Jayaweera
 ---
-#### CRYPTO
-
-### What the hell are NFTs?
-
 #### A new type of digital art that’s blowing up
 
 ![](https://cdn-images-1.medium.com/max/800/1*90VcIbjYQbDFEW0W4gtudw.jpeg)
