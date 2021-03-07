@@ -1,6 +1,7 @@
 ---
 layout: archive
 title:  "What the hell are NFTs?"
+canonical_url: "https://medium.com/tech-right-now/what-the-hell-are-nfts-66ddc3c12f56"
 date:   2021-03-07 17:00:21 +1100
 categories: crypto
 ---
