@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: archive
+title:  "What the hell are NFTs?"
 date:   2021-03-07 17:00:21 +1100
-categories: jekyll update
+categories: crypto
 ---
 #### CRYPTO
 
