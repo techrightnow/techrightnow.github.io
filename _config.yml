@@ -28,7 +28,6 @@ twitter_username: techrightnow1
 github_username:  
 
 # Build settings
-theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   
