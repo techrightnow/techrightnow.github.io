@@ -44,6 +44,7 @@ defaults:
       comments: true
       share: true
       related: true
+minimal_mistakes_skin: "dirt" 
   
 
 # Exclude from processing.
