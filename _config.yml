@@ -28,8 +28,10 @@ twitter_username: techrightnow1
 github_username:  
 
 # Build settings
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
   
 
 # Exclude from processing.
