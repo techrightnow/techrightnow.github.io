@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-08T08:04:45+11:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Tech Right Now</title><subtitle>The Tech Right Now blog - anything and everything relating to tech and more.</subtitle><entry><title type="html">What the hell are NFTs?</title><link href="http://localhost:4000/crypto/2021/03/07/what-the-hell-are-nfts.html" rel="alternate" type="text/html" title="What the hell are NFTs?" /><published>2021-03-07T17:00:21+11:00</published><updated>2021-03-07T17:00:21+11:00</updated><id>http://localhost:4000/crypto/2021/03/07/what-the-hell-are-nfts</id><content type="html" xml:base="http://localhost:4000/crypto/2021/03/07/what-the-hell-are-nfts.html">&lt;h4 id=&quot;a-new-type-of-digital-art-thats-blowingup&quot;&gt;A new type of digital art that’s blowing up&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*90VcIbjYQbDFEW0W4gtudw.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chris Torres’ Nyan Cat meme which was sold as an NFT for $590,000.&lt;/p&gt;
+
+&lt;p&gt;By now you’ve probably heard about this cool new thing called NFTs that are absolutely blowing up. Seemingly absurd amounts of money are being paid for all forms of digital art: JPEGs, GIFs, and more.&lt;/p&gt;
+
+&lt;p&gt;So what &lt;em&gt;are&lt;/em&gt; NFTs?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;NFT stands for ‘&lt;strong&gt;non-fungible token&lt;/strong&gt;’ — something being fungible means that it can be exchanged for the exact same thing, and so NFTs aren’t exchangeable/interchangeable.&lt;/p&gt;
+
+&lt;p&gt;Let’s think of an example here:&lt;/p&gt;
+
+&lt;p&gt;If I had a trading card (ie: Pokemon) that I wanted to trade off, I could give you that trading card in exchange for another trading card, and at the end of the deal I’ll be left with the same item; a trading card.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, NFTs are one of a kind. This means that I can’t give you an NFT and get the exact same thing back, as the NFT that I have given you is the only one in existence. So if I had an ultra-rare, limited edition trading card of which there was only one ever made, then I could trade it with you for anything &lt;strong&gt;other than&lt;/strong&gt; the trading card&lt;strong&gt;.&lt;/strong&gt; This is because the limited edition card is the only one of itself in existence, therefore making it non-fungible.&lt;/p&gt;
+
+&lt;p&gt;NFTs operate on the Ethereum blockchain and are built on one of two token standards: ERC-721 and ERC-1155 — you don’t need to know this as the average consumer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*VWuVKj5ZIH2WKclcUAZntQ.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bonnie in the Sea #1 by Chris David&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;ok-so-if-you-were-to-download-the-picture-above-would-you-suddenly-have-the-nft-have-you-cheated-thesystem&quot;&gt;Ok, so if you were to download the picture above, would you suddenly have the NFT? Have you cheated the system?&lt;/h4&gt;
+
+&lt;p&gt;Well…not quite.&lt;/p&gt;
+
+&lt;p&gt;You see, the value in having these NFTs (for those who buy them) is having the &lt;strong&gt;original copy of the work&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s the difference between having a picture of the Mona Lisa on my phone versus actually having the original Mona Lisa canvas.&lt;/p&gt;
+
+&lt;p&gt;Whilst you may be able to look at the image above and download it for your viewing pleasure, you would never actually own the work. This means that you can’t gain any value from it, as the NFT is tokenized and recorded as being the original copy.&lt;/p&gt;
+
+&lt;p&gt;On top of that, it works in the favour of a collector to have other people view the artwork that they own — the more that people view the artwork, the more they share it, the more valuable the original becomes.&lt;/p&gt;
+
+&lt;p&gt;It certainly raises an interesting point about whether authenticity is what makes the artwork.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-do-nfts-mean-for-creators&quot;&gt;What do NFTs mean for creators?&lt;/h4&gt;
+
+&lt;p&gt;It’s actually pretty good for creators to be selling NFTs.&lt;/p&gt;
+
+&lt;p&gt;Creators keep anywhere from 85–97(ish) percent of the primary sale (depending on which platform the creator chooses), and if the NFT gets sold again on the secondary market, the artist makes 10% of those secondary sales, which is essentially passive revenue for the artist.&lt;/p&gt;
+
+&lt;p&gt;In addition, artists can still retain the copyright and reproduction rights to the work, so not all control is lost by the artist.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-about-the-environment&quot;&gt;What about the environment?&lt;/h4&gt;
+
+&lt;p&gt;That’s the bitter part about NFTs. Since it runs on the same technology as cryptocurrency, the impacts that NFTs have on the environment are similar — negative impacts that continue to grow.&lt;/p&gt;
+
+&lt;p&gt;For instance, the total yearly carbon footprint of Bitcoin energy consumption is comparable to &lt;a href=&quot;https://digiconomist.net/bitcoin-energy-consumption&quot;&gt;New Zealand’s footprint&lt;/a&gt; — and that’s just Bitcoin, not including Ethereum and all the other coins there are.&lt;/p&gt;
+
+&lt;p&gt;So there’s definitely a negative impact on the environment from buying and selling NFTs — &lt;a href=&quot;https://medium.com/u/4f2c96a401a3&quot;&gt;everest pipkin&lt;/a&gt; published a &lt;a href=&quot;https://everestpipkin.medium.com/but-the-environmental-issues-with-cryptoart-1128ef72e6a3&quot;&gt;great piece&lt;/a&gt; about this the other day.&lt;/p&gt;
+
+&lt;h4 id=&quot;where-can-you-buynfts&quot;&gt;Where can you buy NFTs?&lt;/h4&gt;
+
+&lt;p&gt;You can buy NFTs in a number of marketplaces such as &lt;a href=&quot;http://opensea.io&quot;&gt;OpenSea&lt;/a&gt;, &lt;a href=&quot;https://foundation.app&quot;&gt;Foundation&lt;/a&gt;, &lt;a href=&quot;http://rarible.com&quot;&gt;Rarible&lt;/a&gt; and more.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;find-more-like-this-at-tech-rightnow&quot;&gt;Find more like this at &lt;a href=&quot;https://medium.com/tech-right-now&quot;&gt;Tech Right Now&lt;/a&gt;&lt;/h3&gt;</content><author><name>Senvidu Jayaweera</name></author><category term="crypto" /><summary type="html">A new type of digital art that’s blowing up</summary></entry><entry><title type="html">How you can use the power of your PC to help the fight against COVID-19</title><link href="http://localhost:4000/covid19/2021/03/07/power-of-pc-for-covid.html" rel="alternate" type="text/html" title="How you can use the power of your PC to help the fight against COVID-19" /><published>2021-03-07T17:00:21+11:00</published><updated>2021-03-07T17:00:21+11:00</updated><id>http://localhost:4000/covid19/2021/03/07/power-of-pc-for-covid</id><content type="html" xml:base="http://localhost:4000/covid19/2021/03/07/power-of-pc-for-covid.html">&lt;h4 id=&quot;all-about-foldinghome&quot;&gt;All about Folding@Home.&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/0*w2RWj3sbPYTXA4ub&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@christianw?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Christian Wiediger&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;During these times of crisis with the coronavirus, it is imperative for society to band together and help each other to get through this. One way you can help is with &lt;a href=&quot;https://foldingathome.org/&quot;&gt;Folding@Home&lt;/a&gt; .&lt;/p&gt;
+
+&lt;p&gt;A quick intro to Folding@Home- it was first introduced in 2018 as a “distributed computing project for simulating protein dynamics”. The way that Folding@Home works is by using your unused computing power from your CPU and GPU in order to run protein simulations and solve problems collectively with thousands of computers around the world. More detailed information about how it works can be found &lt;a href=&quot;https://foldingathome.org/support/faq/project-details/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What you can do:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have a spare computer lying around that you aren’t using, or even the computer that you are using, you can install Folding@Home and get started.&lt;/p&gt;
+
+&lt;p&gt;It works on all 3 major platforms- Windows, Mac and Linux, and there are detailed instructions on the Folding@Home website which is linked above.&lt;/p&gt;
+
+&lt;p&gt;“Work Units” which are parts of protein simulations are given to your computer through the client installed on your computer. Once your computer finishes running the simulation, it will send back the Work Unit and receive another one, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*QwU5SEXHyTDuYXJhXJLdOw.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see above, there are setting that you can use in order to customise how much of your computing power can be used, and when. There is also a big red button that can stop the folding process if you need all the power of your computer for a task.&lt;/p&gt;
+
+&lt;p&gt;Go ahead, dig out that old laptop, install Folding@Home on it and do your bit to help in the fight against COVID-19 (or other projects that are being &lt;a href=&quot;https://foldingathome.org/start-folding/&quot;&gt;worked on&lt;/a&gt;)!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Link to Folding@Home: &lt;a href=&quot;https://foldingathome.org/&quot;&gt;https://foldingathome.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Link to Folding@Home setup tutorial : &lt;a href=&quot;https://www.youtube.com/watch?v=OYOnSLjYLwE&quot;&gt;https://www.youtube.com/watch?v=OYOnSLjYLwE&lt;/a&gt;&lt;/p&gt;</content><author><name>Senvidu Jayaweera</name></author><category term="covid19" /><summary type="html">All about Folding@Home.</summary></entry></feed>
