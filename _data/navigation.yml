@@ -1,6 +1,6 @@
 main:
   - title: "About"
-    url: /_pages/about.md
+    url: /_pages/about/
   - title: "YouTube channel"
     url: https://www.youtube.com/channel/UCCT5FbdLYlwDcCLHN7-Zzqg
 
