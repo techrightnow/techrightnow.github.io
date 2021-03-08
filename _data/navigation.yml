@@ -1,8 +1,8 @@
 main:
   - title: "About"
-    url: /_pages/about/
+    url: /_pages/about.md/
   - title: "YouTube channel"
     url: https://www.youtube.com/channel/UCCT5FbdLYlwDcCLHN7-Zzqg
   - title: "Latest Post"
-    url: /_posts/2021-03-07-what-the-hell-are-nfts/
+    url: /_posts/2021-03-07-what-the-hell-are-nfts.md/
 
