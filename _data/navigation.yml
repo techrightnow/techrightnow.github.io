@@ -3,4 +3,6 @@ main:
     url: /_pages/about/
   - title: "YouTube channel"
     url: https://www.youtube.com/channel/UCCT5FbdLYlwDcCLHN7-Zzqg
+  - title: "Latest Post"
+    url: /_posts/2021-03-07-what-the-hell-are-nfts/
 
