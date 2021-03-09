@@ -2,8 +2,9 @@
 layout: posts
 excerpt: "A new type of digital art that’s blowing up"
 header: 
-  image: /assets/images/1_90VcIbjYQbDFEW0W4gtudw.jpeg
+  overlay_image: /assets/images/1_90VcIbjYQbDFEW0W4gtudw.jpeg
   caption: "Chris Torres’ Nyan Cat meme which was sold as an NFT for $590,000."
+  show_overlay_excerpt: true
 title:  "What the hell are NFTs?"
 canonical_url: "https://medium.com/tech-right-now/what-the-hell-are-nfts-66ddc3c12f56"
 date:   2021-03-07 17:00:21 +1100
