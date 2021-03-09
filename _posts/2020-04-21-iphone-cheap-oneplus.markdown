@@ -5,7 +5,7 @@ header:
   overlay_filter: 0.5 
 title:  "An iPhone is now cheaper than a OnePlus phone — here’s why the Pixel 4a is going to have a hard time"
 canonical_url: "https://medium.com/tech-right-now/an-iphone-is-now-cheaper-than-a-oneplus-phone-heres-why-the-pixel-4a-is-going-to-have-a-hard-f843c3b122be"
-date:   2021-03-09 
+date:   2020-04-21 
 categories: smartphones
 author: Senvidu Jayaweera
 ---
