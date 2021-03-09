@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 excerpt: "A new type of digital art that’s blowing up"
 header: 
   image: /assets/images/1_90VcIbjYQbDFEW0W4gtudw.jpeg
