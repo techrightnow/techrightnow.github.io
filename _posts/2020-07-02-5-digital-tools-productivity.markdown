@@ -6,7 +6,7 @@ header:
   overlay_filter: 0.5 
 title:  "5 Digital Tools to Help You Be More Productive"
 canonical_url: "https://medium.com/tech-right-now/5-digital-tools-to-help-you-be-more-productive-f767c24b5bc1"
-date:   2020-07-20
+date:   2020-07-02
 categories: productivity
 author: Senvidu Jayaweera
 ---
