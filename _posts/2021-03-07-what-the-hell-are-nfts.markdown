@@ -1,5 +1,8 @@
 ---
 layout: archive
+header: 
+  image: /assets/images/1_90VcIbjYQbDFEW0W4gtudw.jpeg
+  caption: "Chris Torres’ Nyan Cat meme which was sold as an NFT for $590,000."
 title:  "What the hell are NFTs?"
 canonical_url: "https://medium.com/tech-right-now/what-the-hell-are-nfts-66ddc3c12f56"
 date:   2021-03-07 17:00:21 +1100
@@ -8,9 +11,6 @@ author: Senvidu Jayaweera
 ---
 #### A new type of digital art that’s blowing up
 
-![](https://cdn-images-1.medium.com/max/800/1*90VcIbjYQbDFEW0W4gtudw.jpeg)
-
-Chris Torres’ Nyan Cat meme which was sold as an NFT for $590,000.
 
 By now you’ve probably heard about this cool new thing called NFTs that are absolutely blowing up. Seemingly absurd amounts of money are being paid for all forms of digital art: JPEGs, GIFs, and more.
 
