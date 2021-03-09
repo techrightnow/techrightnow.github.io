@@ -45,6 +45,7 @@ defaults:
       comments: true
       share: true
       related: true
+    show_date: true
 minimal_mistakes_skin: "dark" 
 include: ["_pages"]
   
