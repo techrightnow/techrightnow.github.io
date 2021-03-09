@@ -14,8 +14,7 @@ Behind every productive person is a system — one that is able to carry tho
 
 _Note: I am not saying that these apps will suddenly multiply your productivity, but they certainly can help you get more things done. For more on productivity, I’d recommend checking out_ [_Thomas Frank’s Skillshare clas_](https://www.skillshare.com/classes/Productivity-Masterclass-Create-a-Custom-System-that-Works/442860604)_s (not sponsored by the way)._
 
-![](https://cdn-images-1.medium.com/max/1800/1*DC0ePyB_y3Yg4zWD9hD43g.jpeg)
-
+---
 ### 1\. Todoist
 
 Most productive people use a to-do list, whether it be in a notebook or on an app. Here is my personal favourite — Todoist.
@@ -88,6 +87,6 @@ For more on Otter, and a demonstration, check out my video [here](https://youtu.
 
 Use Otter Voice Notes [here](https://apps.apple.com/au/app/otter-voice-meeting-notes/id1276437113) (for iOS) and [here](https://play.google.com/store/apps/details?id=com.aisense.otter&hl=en_AU) (for Android).
 
-![](https://cdn-images-1.medium.com/max/1800/1*DC0ePyB_y3Yg4zWD9hD43g.jpeg)
+---
 
 #### So there they are- my personal top 5 productivity apps. I hope you get the same value from them as I have.
