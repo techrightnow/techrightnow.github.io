@@ -1,5 +1,6 @@
 ---
 layout: posts
+excerpt: 
 header: 
   overlay_image: https://cdn-images-1.medium.com/max/900/1*MDBk9ngW5yXhhz4OZWfQAA.jpeg
   overlay_filter: 0.5 
