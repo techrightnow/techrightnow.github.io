@@ -2,7 +2,7 @@
 layout: archive
 title:  "How you can use the power of your PC to help the fight against COVID-19"
 canonical_url: "https://medium.com/tech-right-now/how-you-can-use-the-power-of-your-pc-to-help-the-fight-against-covid-19-b3d09fdd0320"
-date:   2021-03-07 17:00:21 +1100
+date:   2020-04-07 17:00:21 +1100
 categories: covid19
 author: Senvidu Jayaweera
 ---
