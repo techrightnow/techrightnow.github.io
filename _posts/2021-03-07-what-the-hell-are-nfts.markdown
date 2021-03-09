@@ -1,5 +1,6 @@
 ---
-layout: archive
+layout: default
+excerpt: "A new type of digital art that’s blowing up"
 header: 
   image: /assets/images/1_90VcIbjYQbDFEW0W4gtudw.jpeg
   caption: "Chris Torres’ Nyan Cat meme which was sold as an NFT for $590,000."
@@ -9,7 +10,6 @@ date:   2021-03-07 17:00:21 +1100
 categories: crypto
 author: Senvidu Jayaweera
 ---
-#### A new type of digital art that’s blowing up
 
 
 By now you’ve probably heard about this cool new thing called NFTs that are absolutely blowing up. Seemingly absurd amounts of money are being paid for all forms of digital art: JPEGs, GIFs, and more.
