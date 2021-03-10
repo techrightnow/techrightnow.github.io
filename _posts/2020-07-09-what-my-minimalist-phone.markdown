@@ -8,10 +8,11 @@ header:
   overlay_filter: 0.5 
 title:  "What My Minimalist Phone Looks Like — The Android Version"
 canonical_url: "https://medium.com/tech-right-now/what-my-minimalist-phone-looks-like-the-android-version-13cc0e4605ee"
-date: 2020-07-09
+date: 
 categories: smartphones, productivity 
 author: Senvidu Jayaweera
 ---
+
 I recently came across an interesting article on [The Startup](https://medium.com/swlh) by [Megan Holstein](https://medium.com/u/b0479bd1cc08) called “What My Minimalist Phone Looks Like”, and I felt that I could add on to this by showing what an Android version could look like.
 
 I first started looking into this about 2 months ago, when I realised that due to being stuck inside all the time, I was using my phone a lot more than usual, to the point where I would often have to charge my phone about two times a day. I identified that the issue with my phone was that I had it set up in such a way that the friction between having an impulse to check Instagram (for example) and doing the action was far too little. I then realised that I had to minimalise my phone setup in order to reduce my usage.
