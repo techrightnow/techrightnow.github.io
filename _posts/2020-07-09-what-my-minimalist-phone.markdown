@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5 
 title:  "What My Minimalist Phone Looks Like — The Android Version"
 canonical_url: "https://medium.com/tech-right-now/what-my-minimalist-phone-looks-like-the-android-version-13cc0e4605ee"
-date: 
+date: 2020-07-09
 categories: smartphones, productivity 
 author: Senvidu Jayaweera
 ---
