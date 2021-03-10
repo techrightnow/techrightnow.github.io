@@ -16,7 +16,7 @@ I recently came across an interesting article on [The Startup](https://medium.co
 
 I first started looking into this about 2 months ago, when I realised that due to being stuck inside all the time, I was using my phone a lot more than usual, to the point where I would often have to charge my phone about two times a day. I identified that the issue with my phone was that I had it set up in such a way that the friction between having an impulse to check Instagram (for example) and doing the action was far too little. I then realised that I had to minimalise my phone setup in order to reduce my usage.
 
-![](https://cdn-images-1.medium.com/max/1800/1*DC0ePyB_y3Yg4zWD9hD43g.jpeg)
+---
 
 ### Homescreen
 
@@ -62,7 +62,7 @@ The good thing about the Blloc Ratio is that it has some clean, integrated optio
 
 I chose these three specific widgets based on the fact that they provide me the most value on a day to day basis.
 
-![](https://cdn-images-1.medium.com/max/1800/1*DC0ePyB_y3Yg4zWD9hD43g.jpeg)
+---
 
 ### Notifications
 
@@ -100,7 +100,7 @@ Overall, I’ve found that decluttering my phone and setting it up in the way th
 
 This setup is always going to be evolving, but I think that as a whole, I’m in a much better place with my phone use than I was a couple of months ago.
 
-![](https://cdn-images-1.medium.com/max/1800/1*DC0ePyB_y3Yg4zWD9hD43g.jpeg)
+---
 
 My minimalist phone setup has taken a while to get to, and I’m sure that there are more things that could be improved on. But for now, it’s helping me be more intentional with my life. I hope that this gives you inspiration on what to do with your own phone setup, and how to declutter your phone.
 
