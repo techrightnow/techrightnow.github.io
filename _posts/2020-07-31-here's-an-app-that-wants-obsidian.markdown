@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5 
 title:  "Here’s an app that wants to be your second brain"
 canonical_url: "https://techrn.medium.com/heres-an-app-that-wants-to-be-your-second-brain-bf321d682309"
-date: 2020-31-07  
+date: 2020-07-31  
 categories: productivity
 author: Senvidu Jayaweera
 ---
