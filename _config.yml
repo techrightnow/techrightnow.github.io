@@ -46,7 +46,7 @@ defaults:
       share: true
       related: true
       show_date: true
-minimal_mistakes_skin: "dark" 
+minimal_mistakes_skin: "contrast" 
 include: ["_pages"]
   
 
